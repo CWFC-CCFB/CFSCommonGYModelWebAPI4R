@@ -1,0 +1,16 @@
+Package: CFSCommonGYModelWebAPI4R
+Type: Package
+Title: Common Features for Growth and Yield Model Web API Clients in R
+Version: 1.0.0
+Author: Mathieu Fortin, Canadian Forest Service
+Maintainer: Mathieu Fortin <mathieu.fortin.re@gmail.com>
+Copyright: His Majesty the King in right of Canada
+Description: Common features to be used in meta-modelling.
+URL: https://github.com/CWFC-CCFB/CFSCommonGYModelWebAPI4R
+Imports:
+  jsonlite (>= 1.8.8)
+License: LGPL-3 + file LICENSE
+BugReports: https://github.com/CWFC-CCFB/CFSCommonGYModelWebAPI4R/issues
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
